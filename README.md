@@ -10,4 +10,4 @@ Some time ago built CIaaS (Continuos Integration as a service) named [Fortress S
 
 ![Demo](https://raw.github.com/fortress-shell/fortress-shell/master/demo.gif)
 
-If you have a great idea for SaaS I can help you with for sure.
+If you have any great idea for SaaS I can help you with for sure.
