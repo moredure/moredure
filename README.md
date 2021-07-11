@@ -6,3 +6,6 @@ Our mission to deliver OSS as a service and make popular databases and message s
 
 [![YouTube](http://img.youtube.com/vi/eN8nYMaunsU/0.jpg)](http://www.youtube.com/watch?v=eN8nYMaunsU "Demo")
 
+Some time ago built CIaaS (Continuos Integration as a service)
+
+![Demo](https://raw.github.com/fortress-shell/fortress-shell/master/demo.gif)
